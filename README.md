@@ -2,8 +2,8 @@
 ### 👋 Hi there, I'm RHEEHOT!
 
 - 💬 Ask me about EVERYTHING!!
-
-kimminki0810@gmail.com ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue) 
+- kimminki0810@gmail.com 
+- ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue) 
 
 ![rheehot's github stats](https://github-readme-stats.vercel.app/api?username=NodeDVel&show_icons=true&theme=radical)
 
