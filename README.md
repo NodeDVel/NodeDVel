@@ -1,5 +1,5 @@
 
-### 👋 Hi there, I'm RHEEHOT!
+### 👋 Hi there
 
 - 💬 Ask me about EVERYTHING!!
 - kimminki0810@gmail.com 
