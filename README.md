@@ -5,7 +5,7 @@
 - kimminki0810@gmail.com 
 - ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue) 
 
-![rheehot's github stats](https://github-readme-stats.vercel.app/api?username=NodeDVel&show_icons=true&theme=radical)
+![NodeDVel's github stats](https://github-readme-stats.vercel.app/api?username=NodeDVel&show_icons=true&theme=radical)
 
 
 <!--
