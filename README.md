@@ -1,6 +1,6 @@
 
 Hi there, I'm RHEEHOT!
-👋 kimminki0810@gmail.com ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue) ![rheehot's github stats](https://github-readme-stats.vercel.app/api?username=NodeDVel&show_icons=true&theme=radical) https://brunch.co.kr/@jowlee ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://brunch.co.kr/@jowlee)
+👋 kimminki0810@gmail.com ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue) ![rheehot's github stats](https://github-readme-stats.vercel.app/api?username=NodeDVel&show_icons=true&theme=radical)
 
 <!--
 **NodeDVel/NodeDVel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
