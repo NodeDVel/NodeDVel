@@ -3,7 +3,7 @@
 
 - 💬 Ask me about EVERYTHING!!
 - kimminki0810@gmail.com 
-- ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue) 
+- ![](https://komarev.com/ghpvc/?username=NodeDVel&color=blue) 
 
 ![NodeDVel's github stats](https://github-readme-stats.vercel.app/api?username=NodeDVel&show_icons=true&theme=radical)
 
