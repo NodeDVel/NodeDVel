@@ -2,7 +2,7 @@
 ### 👋 Hi there
 
 - 💬 Ask me about EVERYTHING!!
-- kimminki0810@gmail.com and minki@firmagroup.co
+- kimminki0810@gmail.com and minki@firmagroup.co(corp email)
 - ![](https://komarev.com/ghpvc/?username=NodeDVel&color=blue) 
 
 ![NodeDVel's github stats](https://github-readme-stats.vercel.app/api?username=NodeDVel&show_icons=true&theme=radical)
